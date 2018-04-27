@@ -2,14 +2,14 @@
     [
         "/Users/glenn/Desktop/geolocation/geolocation/force-app",
         {
-            "state": "n",
             "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1524750233562,
             "changeTime": 1524750233562,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "/Users/glenn/Desktop/geolocation/geolocation/force-app/main",
         {
-            "state": "n",
             "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1524750233562,
             "changeTime": 1524750233562,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,252 +32,1056 @@
     [
         "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default",
         {
-            "state": "u",
             "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default",
             "isDirectory": true,
+            "size": 320,
+            "modifiedTime": 1524756978258,
+            "changeTime": 1524754410272,
+            "contentHash": "0d7312666f7b358c4f333f091f45816d28936bf2",
             "isMetadataFile": false,
-            "size": 224,
-            "modifiedTime": 1524750929761,
-            "changeTime": 1524750929761,
-            "contentHash": "b2e413674f98340eeb6ab60f83200a9c2d0faefb"
+            "state": "u"
         }
     ],
     [
         "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura",
         {
-            "state": "n",
             "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura",
             "isDirectory": true,
+            "size": 224,
+            "modifiedTime": 1524755639414,
+            "changeTime": 1524755639414,
+            "contentHash": "ca2863197186dbf70973f8b8e7b821fcb1e043e5",
             "isMetadataFile": false,
-            "size": 64,
-            "modifiedTime": 1524750233562,
-            "changeTime": 1524750233562,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
         "/Users/glenn/Desktop/geolocation/geolocation",
         {
-            "state": "n",
             "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation",
             "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1524752719540,
+            "changeTime": 1524752719540,
+            "contentHash": "7353f7aa5ce702107442766f484722079d20d3fe",
             "isMetadataFile": false,
-            "size": 256,
-            "modifiedTime": 1524750550536,
-            "changeTime": 1524750550536,
-            "contentHash": "07da07834d8f50a1018cf646c911906296572a7c",
-            "isWorkspace": true,
-            "isArtifactRoot": false
+            "state": "u",
+            "isWorkspace": true
         }
     ],
     [
         "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 403,
             "modifiedTime": 1524750929678,
             "changeTime": 1524750929678,
-            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596"
+            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9708,
             "modifiedTime": 1524750929693,
             "changeTime": 1524750929693,
-            "contentHash": "e85a88e4c79b0e49351c7fe72875a0a96c157ce7"
+            "contentHash": "e85a88e4c79b0e49351c7fe72875a0a96c157ce7",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9756,
             "modifiedTime": 1524750929705,
             "changeTime": 1524750929705,
-            "contentHash": "94142c6ea19df359d8f2398924816a5498afc02e"
+            "contentHash": "94142c6ea19df359d8f2398924816a5498afc02e",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9708,
             "modifiedTime": 1524750929710,
             "changeTime": 1524750929710,
-            "contentHash": "a6fc0c32caef3a798eea4f544a2000fc429aeb77"
+            "contentHash": "a6fc0c32caef3a798eea4f544a2000fc429aeb77",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9756,
             "modifiedTime": 1524750929715,
             "changeTime": 1524750929715,
-            "contentHash": "0ac2903745d3402a3279ba45b246c5286914d16d"
+            "contentHash": "0ac2903745d3402a3279ba45b246c5286914d16d",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
+            "size": 17723,
+            "modifiedTime": 1524753709190,
+            "changeTime": 1524753709190,
+            "contentHash": "9e2696b634739877d44fde67c10aa42124d7746b",
             "isMetadataFile": true,
-            "size": 17636,
-            "modifiedTime": 1524750929727,
-            "changeTime": 1524750929727,
-            "contentHash": "0c54835d29f525d17b858318dcf83e601a00ce0f"
+            "state": "u"
         }
     ],
     [
         "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
+            "size": 4684,
+            "modifiedTime": 1524753709198,
+            "changeTime": 1524753709198,
+            "contentHash": "52f1d0724ab23352d73de7d6da76e63ea96d449b",
             "isMetadataFile": true,
-            "size": 4596,
-            "modifiedTime": 1524750929738,
-            "changeTime": 1524750929738,
-            "contentHash": "7c85f9442350b569799e282adf89f1badf052edc"
+            "state": "u"
         }
     ],
     [
         "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
+            "size": 4680,
+            "modifiedTime": 1524753709212,
+            "changeTime": 1524753709212,
+            "contentHash": "4e8ccfd286b282fe150de41bc35253eae5e0fca5",
             "isMetadataFile": true,
-            "size": 4592,
-            "modifiedTime": 1524750929746,
-            "changeTime": 1524750929746,
-            "contentHash": "99644587791080a44c9210de9fa1f6404f1c8884"
+            "state": "u"
         }
     ],
     [
         "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
+            "size": 5020,
+            "modifiedTime": 1524753709219,
+            "changeTime": 1524753709219,
+            "contentHash": "f0fb8b8ee91be2f95547e0086971edbd837ac714",
             "isMetadataFile": true,
-            "size": 4932,
-            "modifiedTime": 1524750929756,
-            "changeTime": 1524750929756,
-            "contentHash": "d7ff65dcb3dec78687d5631dd053c7c4ca251104"
+            "state": "u"
         }
     ],
     [
         "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 702,
             "modifiedTime": 1524750929761,
             "changeTime": 1524750929761,
-            "contentHash": "78c31b6745db7bb8f1b53476b95e66ccfb879383"
+            "contentHash": "78c31b6745db7bb8f1b53476b95e66ccfb879383",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/objects/Account/fields",
         {
-            "state": "u",
             "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/objects/Account/fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1524750929677,
             "changeTime": 1524750929677,
-            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc"
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/objects/Account",
         {
-            "state": "u",
             "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/objects/Account",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1524750929675,
             "changeTime": 1524750929675,
-            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/objects",
         {
-            "state": "u",
             "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1524750929675,
             "changeTime": 1524750929675,
-            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/layouts",
         {
-            "state": "u",
             "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 192,
             "modifiedTime": 1524750929715,
             "changeTime": 1524750929715,
-            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/profiles",
         {
-            "state": "u",
             "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 192,
             "modifiedTime": 1524750929756,
             "changeTime": 1524750929756,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/permissionsets",
         {
-            "state": "u",
             "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/permissionsets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1524750929761,
             "changeTime": 1524750929761,
-            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba"
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/classes",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/classes",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1524753246159,
+            "changeTime": 1524753246159,
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/classes/AccountController.cls",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/classes/AccountController.cls",
+            "isDirectory": false,
+            "size": 337,
+            "modifiedTime": 1524757231080,
+            "changeTime": 1524753313820,
+            "contentHash": "9dd4d87125c5e5a152566acf1bad2be5117193ea",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 195,
+            "modifiedTime": 1524753246159,
+            "changeTime": 1524753246159,
+            "contentHash": "009dea813ac2a75cc97e39cbe424285f551f3488",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountLocator",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountLocator",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1524753436978,
+            "changeTime": 1524753436978,
+            "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1524753436978,
+            "changeTime": 1524753436978,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+            "isDirectory": false,
+            "size": 203,
+            "modifiedTime": 1524754486626,
+            "changeTime": 1524754486626,
+            "contentHash": "7bdcc8d8705a0cf7559fde8b087a04444fc45e15",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 246,
+            "modifiedTime": 1524753436975,
+            "changeTime": 1524753436975,
+            "contentHash": "dfe99a871ed485dfde85a92f9ef175c42e82cbc9",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+            "isDirectory": false,
+            "size": 103,
+            "modifiedTime": 1524753486092,
+            "changeTime": 1524753486092,
+            "contentHash": "92154f6f930172ba50935b0a53a967ae37ec6e1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1524753436978,
+            "changeTime": 1524753436978,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1524753436977,
+            "changeTime": 1524753436977,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1524753436975,
+            "changeTime": 1524753436975,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1524753436976,
+            "changeTime": 1524753436976,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1524753436977,
+            "changeTime": 1524753436977,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+            "isDirectory": false,
+            "size": 267,
+            "modifiedTime": 1524753709156,
+            "changeTime": 1524753709156,
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/tabs",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/tabs",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1524753709156,
+            "changeTime": 1524753709156,
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountList",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountList",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1524753868568,
+            "changeTime": 1524753868568,
+            "contentHash": "8560224a9375f41dec7cfcf002b9144a4be27670",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountListItem",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountListItem",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1524753777461,
+            "changeTime": 1524753777461,
+            "contentHash": "b91ae3f4051e8ad6d6e106dc2074d49668f7c2cf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountList/AccountList.auradoc",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountList/AccountList.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1524753868567,
+            "changeTime": 1524753868567,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 616,
+            "modifiedTime": 1524816597668,
+            "changeTime": 1524816597668,
+            "contentHash": "92fb74b0cc24c2fdf2df178701f3606d934f29b6"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 243,
+            "modifiedTime": 1524753868561,
+            "changeTime": 1524753868561,
+            "contentHash": "097217b3ba1af8c1528aade539f9c16360a85db1",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
+            "isDirectory": false,
+            "size": 111,
+            "modifiedTime": 1524753907377,
+            "changeTime": 1524753907377,
+            "contentHash": "ff97680a451dccf775d504143f673481b13a3300",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountList/AccountList.design",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountList/AccountList.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1524753868568,
+            "changeTime": 1524753868568,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountList/AccountList.svg",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountList/AccountList.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1524753868566,
+            "changeTime": 1524753868566,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
+            "isDirectory": false,
+            "size": 395,
+            "modifiedTime": 1524816558414,
+            "changeTime": 1524755727356,
+            "contentHash": "57b30f0b559317b4566fd3691c83f3439ecdc073",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1524753868563,
+            "changeTime": 1524753868563,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1524753868565,
+            "changeTime": 1524753868565,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.auradoc",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1524753777461,
+            "changeTime": 1524753777461,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
+            "isDirectory": false,
+            "size": 120,
+            "modifiedTime": 1524754102733,
+            "changeTime": 1524753795883,
+            "contentHash": "474f6d902cf12af89851140c645345a9f8da10a8",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 247,
+            "modifiedTime": 1524753777458,
+            "changeTime": 1524753777458,
+            "contentHash": "61b99c0717861f0069c29bfab5593f8b10d81b8f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
+            "isDirectory": false,
+            "size": 168,
+            "modifiedTime": 1524753803696,
+            "changeTime": 1524753803696,
+            "contentHash": "28b0ed4fe984a051f5f2f586c4d4d1a2b303a706",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.design",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1524753777462,
+            "changeTime": 1524753777462,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.svg",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1524753777460,
+            "changeTime": 1524753777460,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1524753777459,
+            "changeTime": 1524753777459,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1524753777459,
+            "changeTime": 1524753777459,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1524753777460,
+            "changeTime": 1524753777460,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/staticresources",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/staticresources",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1524756978332,
+            "changeTime": 1524756978332,
+            "contentHash": "a3ad4d54448f22cbf71389bec794c76ffeb81f49",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountMap",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountMap",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1524754444909,
+            "changeTime": 1524754444909,
+            "contentHash": "ca7497b9d16bf71224d944e5c0c08dce87141486",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountMap/AccountMap.auradoc",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountMap/AccountMap.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1524754444908,
+            "changeTime": 1524754444908,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
+            "isDirectory": false,
+            "size": 330,
+            "modifiedTime": 1524755762219,
+            "changeTime": 1524755762219,
+            "contentHash": "9c0b549aa28ba0a5368296b95374b3c5e9e190c3",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 242,
+            "modifiedTime": 1524754444905,
+            "changeTime": 1524754444905,
+            "contentHash": "b077571a2f804c85e2f389b95989fc6cf62a87af",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1524754473251,
+            "changeTime": 1524754473251,
+            "contentHash": "1b7513aa1fdc650ee47e8f91d28905bea72411d1",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountMap/AccountMap.design",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountMap/AccountMap.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1524754444909,
+            "changeTime": 1524754444909,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountMap/AccountMap.svg",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountMap/AccountMap.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1524754444907,
+            "changeTime": 1524754444907,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 830,
+            "modifiedTime": 1524816617302,
+            "changeTime": 1524816617302,
+            "contentHash": "22f2320dc148f0e43c67b8f5d2dc75933cb07c22"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1524754444906,
+            "changeTime": 1524754444906,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1524754444907,
+            "changeTime": 1524754444907,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountsLoaded",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountsLoaded",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1524755639415,
+            "changeTime": 1524755639415,
+            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
+            "isDirectory": false,
+            "size": 100,
+            "modifiedTime": 1524755659000,
+            "changeTime": 1524755659000,
+            "contentHash": "8f41527bf754bff336a0a867da6cdd35659054b4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
+            "isDirectory": false,
+            "size": 242,
+            "modifiedTime": 1524755639415,
+            "changeTime": 1524755639415,
+            "contentHash": "2761731f694cba49bd18f1129cb53c1074bf487c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/staticresources/leaflet.resource-meta.xml",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/staticresources/leaflet.resource-meta.xml",
+            "isDirectory": false,
+            "size": 210,
+            "modifiedTime": 1524756978259,
+            "changeTime": 1524756978259,
+            "contentHash": "daa89debd48598fd3138118af8ead370dbb2c259",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/staticresources/leaflet/images/layers-2x.png",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/staticresources/leaflet/images/layers-2x.png",
+            "isDirectory": false,
+            "size": 1259,
+            "modifiedTime": 1524756978333,
+            "changeTime": 1524756978333,
+            "contentHash": "152a162333e46d24f9d89f566312fc0c64011dee",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/staticresources/leaflet/images/layers.png",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/staticresources/leaflet/images/layers.png",
+            "isDirectory": false,
+            "size": 696,
+            "modifiedTime": 1524756978334,
+            "changeTime": 1524756978334,
+            "contentHash": "c9e7528e491a39232ba24a2706c6c739d6fb0f06",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon-2x.png",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon-2x.png",
+            "isDirectory": false,
+            "size": 2464,
+            "modifiedTime": 1524756978334,
+            "changeTime": 1524756978334,
+            "contentHash": "cf3a536596b1f58e0ac805404183c8e6d6bdacb5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon.png",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon.png",
+            "isDirectory": false,
+            "size": 1466,
+            "modifiedTime": 1524756978334,
+            "changeTime": 1524756978334,
+            "contentHash": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/staticresources/leaflet/images/marker-shadow.png",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/staticresources/leaflet/images/marker-shadow.png",
+            "isDirectory": false,
+            "size": 618,
+            "modifiedTime": 1524756978335,
+            "changeTime": 1524756978335,
+            "contentHash": "7b6a8df63930381e96604e705168d0527d6b82bc",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js",
+            "isDirectory": false,
+            "size": 396928,
+            "modifiedTime": 1524756978335,
+            "changeTime": 1524756978335,
+            "contentHash": "4240045cf30725cb9980498fcc2ebf27a2f3c260",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js.map",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js.map",
+            "isDirectory": false,
+            "size": 755043,
+            "modifiedTime": 1524756978337,
+            "changeTime": 1524756978337,
+            "contentHash": "ca31fc870259d8faaa12c2f431906f368ea92791",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/staticresources/leaflet/leaflet.css",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/staticresources/leaflet/leaflet.css",
+            "isDirectory": false,
+            "size": 14198,
+            "modifiedTime": 1524756978338,
+            "changeTime": 1524756978338,
+            "contentHash": "57d2f781ab8b7b41d1dd5f0a51cd1930050ca9dc",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js",
+            "isDirectory": false,
+            "size": 139643,
+            "modifiedTime": 1524756978338,
+            "changeTime": 1524756978338,
+            "contentHash": "997eed0c9cf25113c35b4213569b2323ad7d861e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js.map",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js.map",
+            "isDirectory": false,
+            "size": 190004,
+            "modifiedTime": 1524756978339,
+            "changeTime": 1524756978339,
+            "contentHash": "d94996a1df21dc6283868fdf6c0f1e50358eafea",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/staticresources/leaflet/images",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/staticresources/leaflet/images",
+            "isDirectory": true,
+            "size": 224,
+            "modifiedTime": 1524756978334,
+            "changeTime": 1524756978334,
+            "contentHash": "504aa9d4037501ec4d0edf632f7af41532b43659",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/staticresources/leaflet",
+        {
+            "sourcePath": "/Users/glenn/Desktop/geolocation/geolocation/force-app/main/default/staticresources/leaflet",
+            "isDirectory": true,
+            "size": 256,
+            "modifiedTime": 1524756978339,
+            "changeTime": 1524756978339,
+            "contentHash": "ef86d3d12efa4e132890afd141d18f3050a16029",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]
